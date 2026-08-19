@@ -93,10 +93,9 @@ SLURM array launcher for `modelling_fixedhybrid.py`.
 
 The current file should **not be treated as a blindly runnable canonical Type 2 command** without checking two lines:
 
-1. It prints/comments that it is running Type 2, while the actual command currently passes `--diabetes_type 1`.
-2. The arrays define 18 task combinations (main, complete-case and complete-follow-up), but `#SBATCH --array=0-11` launches only tasks 0-11, i.e. main + complete-case. Tasks 12-17 (`complete_fu`) are not submitted by the current array range.
+The final manuscript modelling run used Type 2 diabetes (`--diabetes_type 2`). This was verified from the SLURM execution logs and the resulting `Combined_male_type_2` and `Combined_female_type_2` output directories.
 
-Downstream post-processing scripts are explicitly configured around `Combined_<sex>_type_2` outputs. Therefore, when reproducing the Type 2 manuscript analysis, verify/correct the diabetes-type and array settings against the intended analysis before submission rather than relying on the current comments.
+The script defines 18 possible task combinations covering the primary analysis, complete-case sensitivity analysis, and complete-follow-up (`complete_fu`) sensitivity analysis. The final submitted SLURM array uses `#SBATCH --array=0-11`, which executes 12 tasks: six primary analyses (male/female × three mortality outcomes) and six corresponding complete-case sensitivity analyses. The six `complete_fu` tasks remain defined in the script but were not submitted as part of this final array.
 
 ## `postprocess_database_stratified_performance.py`
 
