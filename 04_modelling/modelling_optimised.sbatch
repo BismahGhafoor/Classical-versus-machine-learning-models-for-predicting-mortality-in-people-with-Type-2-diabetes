@@ -182,7 +182,7 @@ set +e
     --data_path "${DATA}" \
     --database all \
     --sex "${SEX}" \
-    --diabetes_type 1 \
+    --diabetes_type 2 \
     --tuning_metric brier \
     --sensitivity "${SENSITIVITY}" \
     --n_splits 1 \
