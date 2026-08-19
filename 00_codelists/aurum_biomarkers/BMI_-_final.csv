@@ -1,0 +1,11 @@
+Body mass index (BMI) value,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,,,,,,,
+medcodeid,term,Observations,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,old_code,june_2024
+100716012,Body mass index,168110661,22K,22K..00,60621009,1,1
+11923361000006119,Finding of body mass index,64587,^ESCT1192336,,301331008,1,1
+3484801000006114,BMI - Body mass index,35275,^ESCTBM348480,,60621009,1,1
+923861000006112,Body mass index,4827,PCNQBO1,,923861000006108,1,1
+2196071000000116,Baseline body mass index,3623,22KB,22KB.00,846931000000101,1,1
+8286991000006119,Baseline BMI (body mass index),33,^ESCTBA828699,,846931000000101,1,1
+7504441000006114,Measurement of body mass index,14,^ESCTME750444,,698094009,1,1
+5892201000006119,Observation of body mass index,5,^ESCTOB589220,,301331008,1,1

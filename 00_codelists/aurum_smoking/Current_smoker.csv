@@ -1,0 +1,122 @@
+Current smoker,Unnamed: 1,Unnamed: 2
+,,
+medcodeid,term,category code
+128130017,Smoker,current smoker
+503483019,Current smoker,current smoker
+854071000006119,Current smoker,current smoker
+344794017,Cigar consumption,current smoker
+99639019,Cigar smoker,current smoker
+344793011,Cigarette consumption,current smoker
+1780396011,Cigarette pack-years,current smoker
+108938018,Cigarette smoker,current smoker
+854021000006115,Cigarette smoker,current smoker
+3582451000006114,Cigarette smoking tobacco,current smoker
+14933931000006118,Community Pharmacy Smoking Cessation Service,current smoker
+461114016,Counselling about tobacco use,current smoker
+1152111000000118,Current smoker annual review,current smoker
+1714541000006110,Current smoker annual review - enhanced services admin,current smoker
+604961000006114,Current Smoker NOS,current smoker
+4948551000006111,Drops unextinguished cigarettes,current smoker
+1592611000000110,Failed attempt to stop smoking,current smoker
+854961000006110,Grade B light smoker (1-10/day),current smoker
+854981000006117,Grade C moderate smoker (11-20/day),current smoker
+855001000006114,Grade D heavy smoker (>20 Day),current smoker
+852111000006118,Gradual smoking reduction,current smoker
+1778181000006110,Group session: Stop smoking education programme,current smoker
+5003171000006114,Heavy cigarette smoker,current smoker
+819331000006110,Heavy cigarette smoker (20-39 cigs/day),current smoker
+3422221000006116,Heavy smoker (over 20 per day),current smoker
+250368013,Keeps trying to stop smoking,current smoker
+5003151000006116,Light cigarette smoker,current smoker
+743331000006116,Light cigarette smoker (1-9 cigs/day),current smoker
+2474719011,Minutes from waking to first tobacco consumption,current smoker
+5003161000006119,Moderate cigarette smoker,current smoker
+700121000006118,Moderate cigarette smoker (10-19 cigs/day),current smoker
+3419101000006116,Moderate smoker (20 or less per day),current smoker
+1484933010,Negotiated date for cessation of smoking,current smoker
+1488578010,Not interested in stopping smoking,current smoker
+903981000006117,Not interested in stopping smoking,current smoker
+11904991000006116,Occasional cigarette smoker,current smoker
+5495951000006111,Occasional cigarette smoker (less than one cigarette/day),current smoker
+397733018,Occasional smoker,current smoker
+5495941000006114,Occasional smoker,current smoker
+8153371000006117,Occasional tobacco smoker,current smoker
+7696001000006118,Patient request for smoking cessation information,current smoker
+136515019,Pipe smoker,current smoker
+3874641000006110,Pipe smoking tobacco,current smoker
+344795016,Pipe tobacco consumption,current smoker
+1563081000000115,Practice based smoking cessation programme start date,current smoker
+904021000006118,Previous smoking quit attempts,current smoker
+2982426011,Provision of smoking cessation leaflet,current smoker
+1488577017,Ready to stop smoking,current smoker
+904001000006111,Ready to stop smoking,current smoker
+1777011000006118,Reason for referral: Smoking Cessation,current smoker
+1780360012,Reason for restarting smoking,current smoker
+2741221000000116,Referral for brief intervention for smoking cessation,current smoker
+1709641000000115,Referral for smoking cessation service offered,current smoker
+1715591000006117,Referral to National Health Service stop smoking service,current smoker
+8190531000006112,Referral to NHS (National Health Service) stop smoking service,current smoker
+1489355012,Referral to smoking cessation advisor,current smoker
+2251911000000114,Referral to smoking cessation service,current smoker
+459722017,Referral to stop-smoking clinic,current smoker
+250375014,Rolls own cigarettes,current smoker
+852981000006111,Rolls own cigarettes,current smoker
+1780273014,Seen by smoking cessation advisor,current smoker
+2717211000000112,Signposting to smoking cessation service,current smoker
+137721000006115,Smoker - amount smoked,current smoker
+78013015,Smokers' cough,current smoker
+5074201000006119,Smokers keratosis,current smoker
+7375991000006118,Smokes tobacco daily,current smoker
+961581000006114,Smokes/uses tobacco products,current smoker
+338608011,Smoking cessation advice,current smoker
+1176421000000118,Smoking cessation advice declined,current smoker
+303501000000115,Smoking cessation advice provided by community pharmacist,current smoker
+6427931000006116,Smoking cessation assistance,current smoker
+1626121000006116,Smoking cessation drug therapy - varenicline,current smoker
+818061000006111,Smoking cessation education,current smoker
+8196151000006112,Smoking cessation leaflet given,current smoker
+1484932017,Smoking cessation milestones,current smoker
+1175011000000112,Smoking cessation programme declined,current smoker
+1773560017,Smoking cessation programme start date,current smoker
+1591651000006110,Smoking cessation referral declined,current smoker
+1819411000006114,Smoking increased,current smoker
+216212011,Smoking reduced,current smoker
+137791000006118,Smoking restarted,current smoker
+2670126018,Smoking restarted,current smoker
+2669652019,Smoking started,current smoker
+137811000006119,Smoking Status,current smoker
+1484934016,Smoking status at 4 weeks,current smoker
+1750931000000118,Stop smoking service opportunity signposted,current smoker
+1488576014,Thinking about stopping smoking,current smoker
+904031000006115,Thinking about stopping smoking,current smoker
+250387019,Tobacco consumption NOS,current smoker
+250370016,Tobacco consumption unknown,current smoker
+102951000006115,Tobacco dependence,current smoker
+295259018,Tobacco dependence in remission,current smoker
+295260011,Tobacco dependence NOS,current smoker
+3959111000006111,Tobacco dependence syndrome,current smoker
+295257016,"Tobacco dependence, continuous",current smoker
+295258014,"Tobacco dependence, episodic",current smoker
+295256013,"Tobacco dependence, unspecified",current smoker
+102921000006112,Tobacco smoking consumption,current smoker
+4180331000006118,Tobacco use,current smoker
+7559591000006110,Tobacco use cessation education,current smoker
+460828018,Tobacco user,current smoker
+5003141000006118,Trivial cigarette smoker,current smoker
+88471000006112,Trivial cigarette smoker (less than one cigarette/day),current smoker
+250372012,Trying to give up smoking,current smoker
+2462391000000119,Varenicline smoking cessation therapy declined,current smoker
+2462431000000110,Varenicline smoking cessation therapy offered,current smoker
+5003181000006112,Very heavy cigarette smoker,current smoker
+67621000006112,Very heavy cigarette smoker (40+ cigs/day),current smoker
+8063181000006116,Wants to stop smoking,current smoker
+1809121000006113,Waterpipe tobacco consumption,current smoker
+2170961000000116,Waterpipe tobacco consumption,current smoker
+4939241000006115,Advice on effects of smoking on health,current smoker
+936011000006114,Advice on effects of smoking on health,current smoker
+4939251000006118,Advice on smoking,current smoker
+5495901000006112,Amount and type of tobacco smoked,current smoker
+7650811000006116,Assessment of readiness for smoking cessation,current smoker
+1125741000000111,Brief intervention for smoking cessation,current smoker
+904121000006117,Carbon monoxide validation confirms smoker,current smoker
+5003191000006110,Chain smoker,current smoker

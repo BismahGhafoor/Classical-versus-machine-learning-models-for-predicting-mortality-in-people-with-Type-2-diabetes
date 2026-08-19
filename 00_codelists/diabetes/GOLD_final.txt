@@ -1,0 +1,420 @@
+medcode	readterm	type
+102768	Did not attend diabetes foot screening	0
+67664	Education score - diabetes	0
+100436	Education in self management of diabetes	0
+94699	Diabetes treatment satisfaction questionnaire	0
+6430	Attending diabetes clinic	0
+104374	Provision of diabetes clinical summary	0
+10642	Dietary advice for diabetes mellitus	0
+94011	Attended XPERT diabetes structured education programme	0
+94956	Did not complete XPERT diabetes structured education program	0
+105585	Diabetes clinical pathway	0
+95094	Did not complete diabetes structured education programme	0
+7795	Diabetes mellitus with neuropathy	0
+107508	Conversion to insulin by diabetes specialist nurse	0
+61523	Other specified diabetes mellitus with neurological comps	0
+18766	Diabetes resolved	0
+94955	Did not attend XPERT diabetes structured education programme	0
+100422	Discharged from diabetes shared care programme	0
+46290	Other specified diabetes mellitus with multiple comps	0
+72345	Diabetes mellitus NOS with hyperosmolar coma	0
+63412	Diabetes clinical management plan	0
+94186	Diabetes structured education programme completed	0
+10098	Other specified diabetes mellitus with other spec comps	0
+6813	H/O: diabetes mellitus	0
+108993	Diabetes self-management plan agreed	0
+93870	Referral to XPERT diabetes structured education programme	0
+44312	Informed dissent for diabetes national audit	0
+107423	Diabetes self-management plan review	0
+113594	Diabetes Distress Scale 2 item	0
+47377	Other specified diabetes mellitus with ophthalmic complicatn	0
+94330	Referral to diabetes special interest general practitioner	0
+13194	Diabetes monitoring 1st letter	0
+20900	Diabetes monitored	0
+68546	Diabetes clinic satisfaction questionnaire	0
+93854	Diabetes structured education programme declined	0
+106360	Erectile dysfunction due to diabetes mellitus	0
+34528	Diabetes well being questionnaire	0
+50937	Referral to diabetes preconception counselling clinic	0
+31241	Diabetes monitoring admin.NOS	0
+64357	Diabetes mellitus NOS with unspecified complication	0
+12675	Diabetes: shared care programme	0
+33343	Diabetes mellitus with other specified manifestation	0
+59288	Other specified diabetes mellitus with coma	0
+101190	Declined consent for diabetes year of care programme	0
+18056	Foot abnormality - diabetes related	0
+7045	H/O: Admission in last year for diabetes foot problem	0
+103743	Diabetes care plan declined	0
+28856	Transition of diabetes care options discussed	0
+8306	Referral to diabetes nurse	0
+38986	Diabetes mellitus with no mention of complication	0
+105207	Referral to community diabetes clinic	0
+98954	Diabetes treatment satisfaction questionnaire	0
+2471	Nephrotic syndrome in diabetes mellitus	0
+13195	Diabetes monitoring 2nd letter	0
+110511	Recommendation self-refer for diabetes structured education	0
+13192	Diabetes monitor. check done	0
+107414	Diabetes structured education programme not available	0
+82474	Referral to community diabetes specialist nurse	0
+45491	Diabetes mellitus with unspecified complication	0
+38078	Understands diet - diabetes	0
+107361	Education about diabetes and driving	0
+110087	Provision of written information about diabetes and high BP	0
+70821	Diabetes mellitus NOS with other specified manifestation	0
+17067	Autonomic neuropathy due to diabetes	0
+11848	Renal diabetes	0
+50972	Diabetes mellitus NOS with no mention of complication	0
+99628	[X]Glomerular disorders in diabetes mellitus	0
+112365	[X]Pre-existing diabetes mellitus, unspecified	0
+11471	Diabetes medication review	0
+97281	Seen by general practitioner special interest in diabetes	0
+107603	Diabetes mellitus in remission	0
+47011	Referral to diabetes structured education programme	0
+64283	Other specified diabetes mellitus with unspecified comps	0
+31141	Diabetes monitor.phone invite	0
+91164	CSQ - Diabetes clinic satisfaction questionnaire	0
+55431	Pre-existing diabetes mellitus, unspecified	0
+22130	Diabetes monitoring default	0
+107464	Diabetes Year of Care annual review	0
+109806	Discharge from secondary care diabetes service	0
+52212	[X]Diabetes mellitus	0
+31790	Polyneuropathy in diabetes	0
+13191	Diabetes clinic administration	0
+32739	Seen in community diabetes specialist clinic	0
+64449	Unspecified diabetes mellitus with multiple complications	0
+12703	Education score - diabetes	0
+13197	Attends diabetes monitoring	0
+112237	Provision written information abt diabetes & high HbA1c levl	0
+97824	DWBQ - Diabetes wellbeing questionnaire	0
+38130	Diabetes wellbeing questionnaire	0
+112402	Other specified diabetes mellitus with periph circ comps	0
+47032	Diabetes care plan agreed	0
+12213	Patient on maximal tolerated therapy for diabetes	0
+93631	XPERT diabetes structured education programme completed	0
+13057	Health education - diabetes	0
+102316	Suspected diabetes mellitus	0
+38617	Other specified diabetes mellitus with ketoacidosis	0
+107739	Advice about diabetes and driving	0
+711	Diabetes mellitus	0
+42505	Diabetes mellitus NOS with ketoacidosis	0
+26603	Refuses diabetes monitoring	0
+15690	Diabetes mellitus with ketoacidotic coma	0
+31240	Diabetes monitor.verbal invite	0
+11977	Referral to diabetes nurse	0
+105937	Referral to community diabetes specialist nurse declined	0
+12682	Patient offered diabetes structured education programme	0
+11599	Pan retinal photocoagulation for diabetes	0
+32619	Patient diabetes education review	0
+95553	Did not attend diabetes structured education programme	0
+22967	Retinal abnormality - diabetes related	0
+106679	Provision of written information about diabetes and driving	0
+35399	Diabetes mellitus with peripheral circulatory disorder	0
+109744	Provsn written information about diabetes & high cholesterol	0
+101455	Diabetes monitor invitation by SMS (short message service)	0
+33254	Diabetes mellitus with ophthalmic manifestation	0
+13279	Other specified diabetes mellitus with renal complications	0
+41686	[X]Other specified diabetes mellitus	0
+54846	Diabetes monitoring deleted	0
+9013	Unstable diabetes	0
+68818	DTSQ - Diabetes treatment satisfaction questionnaire	0
+100292	[X]Unspecified diabetes mellitus with renal complications	0
+16502	Diabetes mellitus with renal manifestation	0
+26605	Attended diabetes structured education programme	0
+104287	Referral to community diabetes service	0
+12030	Diabetes monitoring 3rd letter	0
+35107	Diabetes mellitus with nephropathy NOS	0
+113796	Joint consultation GP & community diabetes specialist nurse	0
+2478	Brittle diabetes	0
+21482	Diabetes mellitus with hyperosmolar coma	0
+111347	Joint consultn pracse nurse & comm diabetes specialist nurse	0
+34283	Diabetes mellitus NOS with ophthalmic manifestation	0
+65025	Diabetes mellitus NOS with peripheral circulatory disorder	0
+102767	Pre-conception advice for diabetes mellitus	0
+54419	Diabetes key contact	0
+12506	Diabetes: practice programme	0
+8836	Diabetes management plan given	0
+113661	Has diabetes identity card	0
+32556	Diabetes with gangrene	0
+32403	Diabetes mellitus with gangrene	0
+16230	Diabetes mellitus with neurological manifestation	0
+109222	Lifestyle education for diabetes	0
+12307	Diabetes care by hospital only	0
+1682	Diabetes mellitus with ketoacidosis	0
+65062	Diabetes mellitus NOS with ketoacidotic coma	0
+16881	[V]Dietary counselling in diabetes mellitus	0
+61461	Informed consent for diabetes national audit	0
+113762	Provision of written information about diabetes & hypertensn	0
+13069	Has seen dietician - diabetes	0
+9897	Diabetes monitoring admin.	0
+47058	Discharged from care of diabetes specialist nurse	0
+28622	Diabetes resolved	0
+11930	Under care of diabetes specialist nurse	0
+22573	Diabetes mellitus NOS with neurological manifestation	0
+27921	Foot abnormality - diabetes related	0
+16491	Diabetes mellitus with polyneuropathy	0
+33807	Diabetes mellitus, adult with gangrene	0
+42729	Type I diabetes mellitus with hypoglycaemic coma	1
+62209	Type I diabetes mellitus with ketoacidosis	1
+46850	Type I diabetes mellitus - poor control	1
+66145	Type I diabetes mellitus with ketoacidotic coma	1
+108007	Type I diabetes mellitus with multiple complications	1
+66872	Type I diabetes mellitus with nephropathy	1
+109628	Type 1 diabetes mellitus in remission	1
+113197	Type 1 diabetes mellitus with nephropathy	1
+52104	Insulin dependent diabetes mellitus with multiple complicatn	1
+18387	Type 1 diabetes mellitus with retinopathy	1
+95636	Latent autoimmune diabetes mellitus in adult	1
+97849	Insulin dependent diabetes maturity onset	1
+51261	Insulin dependent diabetes mellitus	1
+32359	Perceived control of insulin-dependent diabetes	1
+68105	Type 1 diabetes mellitus with mononeuropathy	1
+46301	Type 1 diabetes mellitus with polyneuropathy	1
+100770	Insulin dependent diabetes mellitus with diabetic cataract	1
+111106	Type 1 diabetes mellitus without complication	1
+30323	Type 1 diabetes mellitus with persistent proteinuria	1
+68390	Type 1 diabetes mellitus with ulcer	1
+95343	Type I diabetes mellitus with retinopathy	1
+62352	Type I diabetes mellitus with arthropathy	1
+91943	Type I diabetes mellitus with polyneuropathy	1
+69748	Diabetes mellitus, juvenile type, + ophthalmic manifestation	1
+38161	Type I diabetes mellitus with retinopathy	1
+40023	Diabetes mellitus, juvenile type, with hyperosmolar coma	1
+95992	Type I diabetes mellitus without complication	1
+85660	Diabetes type 1 review	1
+62613	Type I diabetes mellitus without complication	1
+97474	Unstable type 1 diabetes mellitus	1
+18683	Type 1 diabetes mellitus with ulcer	1
+99311	Type I diabetes mellitus with ophthalmic complications	1
+39070	Type 1 diabetes mellitus with hypoglycaemic coma	1
+10418	Type 1 diabetes mellitus with nephropathy	1
+69676	Type 1 diabetes mellitus without complication	1
+40682	Type 1 diabetes mellitus maturity onset	1
+44443	Insulin dependent diabetes mellitus with ulcer	1
+50960	Pre-existing diabetes mellitus, insulin-dependent	1
+49554	Type 1 diabetes mellitus with diabetic cataract	1
+102112	Type I diabetes mellitus with gangrene	1
+93875	Insulin dependent diabetes mellitus with retinopathy	1
+21983	Type 1 diabetes mellitus with renal complications	1
+60499	Insulin dependent diabetes mellitus with gangrene	1
+97809	Did not complete DAFNE diabetes structured education program	1
+99277	Did not attend DAFNE diabetes structured education programme	1
+44260	Insulin dependent diabetes mellitus with diabetic cataract	1
+113863	Type I diabetes mellitus with nephropathy	1
+109051	Insulin dependent diabetes mellitus with gangrene	1
+113975	Type I diabetes mellitus with polyneuropathy	1
+18505	IDDM-Insulin dependent diabetes mellitus	1
+47582	Type 1 diabetes mellitus with renal complications	1
+109878	Diet advice for insulin-dependent diabetes	1
+102740	Type 1 diabetes mellitus with ophthalmic complications	1
+93704	Referral to DAFNE diabetes structured education programme	1
+93922	Diabetes mellitus, juvenile type, with renal manifestation	1
+102946	Insulin-dependent diabetes mellitus with renal complications	1
+31310	Insulin dependent diabetes maturity onset	1
+98071	Insulin-dependent diabetes mellitus with ophthalmic comps	1
+115410	Type I diabetes mellitus with gangrene	1
+108724	Type I diabetes mellitus with gastroparesis	1
+60107	Unstable type I diabetes mellitus	1
+17858	Type 1 diabetes mellitus	1
+61344	Type I diabetes mellitus with renal complications	1
+105337	Type I diabetes mellitus - poor control	1
+49949	Unstable type I diabetes mellitus	1
+61829	Type 1 diabetes mellitus with neurological complications	1
+93878	Type I diabetes mellitus with ulcer	1
+114401	Type 1 diabetes mellitus with gangrene	1
+93390	Attended DAFNE diabetes structured education programme	1
+1038	Insulin dependent diabetes mellitus	1
+57621	Insulin dependent diabetes mellitus with nephropathy	1
+108360	Type I diabetes mellitus in remission	1
+70766	Type 1 diabetes mellitus with hypoglycaemic coma	1
+69993	Type 1 diabetes mellitus with gangrene	1
+45276	Insulin dependent diabetes mellitus with multiple complicat	1
+49276	Insulin-dependent diabetes mellitus with ophthalmic comps	1
+6791	Insulin dependent diabetes mellitus - poor control	1
+52283	Insulin-dependent diabetes mellitus with neurological comps	1
+97446	Type 1 diabetes mellitus maturity onset	1
+70448	Diabetes mellitus, juvenile +peripheral circulatory disorder	1
+24490	Diabetes mellitus, juvenile type, no mention of complication	1
+110997	Diabetes mellitus, juvenile, + other specified manifestation	1
+110400	Type 1 diabetes mellitus with diabetic cataract	1
+53200	Diabetes mellitus, juvenile type, with ketoacidosis	1
+40837	Type 1 diabetes mellitus with ketoacidotic coma	1
+6509	Insulin dependent diabetes mellitus with retinopathy	1
+42567	Diabetes mellitus, juvenile type, with ketoacidotic coma	1
+17545	Type I diabetes mellitus with diabetic cataract	1
+93468	Type 1 diabetes mellitus with peripheral angiopathy	1
+68792	Diabetes mellitus, juvenile type, + unspecified complication	1
+47650	Type 1 diabetes mellitus with multiple complications	1
+54600	Unstable insulin dependent diabetes mellitus	1
+109837	Type I diabetes mellitus with renal complications	1
+24694	Insulin dependent diabetes mellitus with mononeuropathy	1
+96235	Type I diabetes mellitus maturity onset	1
+99716	Insulin dependent diabetes mellitus with hypoglycaemic coma	1
+67853	Diabetes mellitus, juvenile, + neurological manifestation	1
+69043	Dietary advice for type I diabetes	1
+65616	Insulin dependent diabetes mellitus with arthropathy	1
+12455	Type I diabetes mellitus	1
+46963	Insulin-dependent diabetes mellitus with renal complications	1
+43921	Unstable type 1 diabetes mellitus	1
+97894	Type I diabetes mellitus with exudative maculopathy	1
+102163	Insulin dependent diabetes mellitus with nephropathy	1
+54008	Type 1 diabetes mellitus with neuropathic arthropathy	1
+41716	Insulin dependent diabetes mellitus with polyneuropathy	1
+47649	Type 1 diabetes mellitus with ophthalmic complications	1
+91942	Type I diabetes mellitus with multiple complications	1
+60208	Type I diabetes mellitus with neuropathic arthropathy	1
+35288	Type 1 diabetes mellitus - poor control	1
+101735	Insulin-dependent diabetes mellitus with neurological comps	1
+44440	Insulin dependent diabetes mellitus with hypoglycaemic coma	1
+22871	Type 1 diabetes mellitus with exudative maculopathy	1
+1549	Type 1 diabetes mellitus	1
+1647	Insulin dependent diabetes mellitus	1
+63017	Type I diabetes mellitus maturity onset	1
+42831	Type 1 diabetes mellitus with neurological complications	1
+55239	Type 1 diabetes mellitus with gastroparesis	1
+18642	Type 1 diabetes mellitus with arthropathy	1
+72702	Insulin dependent diabetes mellitus - poor control	1
+24423	Type I diabetes mellitus	1
+51957	Type I diabetes mellitus with ulcer	1
+102620	Type I diabetes mellitus with persistent microalbuminuria	1
+101311	Insulin dependent diabetes mellitus with polyneuropathy	1
+30294	Type 1 diabetes mellitus with persistent microalbuminuria	1
+93491	DAFNE diabetes structured education programme completed	1
+18230	Type 1 diabetes mellitus with neuropathic arthropathy	1
+49146	Type I diabetes mellitus with neurological complications	1
+99231	Type I diabetes mellitus with mononeuropathy	1
+26855	Unstable insulin dependent diabetes mellitus	1
+10692	Type 1 diabetes mellitus with ketoacidosis	1
+99719	Insulin-dependent diabetes without complication	1
+41049	Type 1 diabetes mellitus with retinopathy	1
+45914	Type 1 diabetes mellitus - poor control	1
+56448	Insulin-dependent diabetes without complication	1
+98704	Insulin dependent diabetes mellitus with ulcer	1
+106953	Referral to DAFNE diabetes structured educn prog declined	1
+102201	Type II diabetes mellitus with nephropathy	2
+64571	Type II diabetes mellitus with nephropathy	2
+53392	Type II diabetes mellitus without complication	2
+59253	Type 2 diabetes mellitus with arthropathy	2
+8403	Non-insulin dependent diabetes mellitus - poor control	2
+35105	Diabetes mellitus, adult onset, with renal manifestation	2
+91646	Type II diabetes mellitus with ulcer	2
+41389	Diabetes mellitus, adult onset, + ophthalmic manifestation	2
+4513	Non-insulin dependent diabetes mellitus	2
+43785	Non-insulin dependent diabetes mellitus with hypoglyca coma	2
+62107	Type II diabetes mellitus with gangrene	2
+47409	Type II diabetes mellitus with polyneuropathy	2
+29979	Non-insulin-dependent diabetes mellitus without complication	2
+104323	Type II diabetes mellitus with gangrene	2
+68843	Diabetes mellitus, adult onset, with ketoacidotic coma	2
+95351	Type II diabetes mellitus with mononeuropathy	2
+17262	Non-insulin-dependent diabetes mellitus with retinopathy	2
+18777	Type 2 diabetes mellitus with renal complications	2
+107824	Type II diabetes mellitus in remission	2
+37806	Type 2 diabetes mellitus with peripheral angiopathy	2
+50429	Non-insulin-dependent diabetes mellitus with ophthalm comps	2
+50527	Type II diabetes mellitus with polyneuropathy	2
+47954	Type 2 diabetes mellitus without complication	2
+39317	Diabetes mellitus, adult onset, + neurological manifestation	2
+58604	Type II diabetes mellitus with retinopathy	2
+98723	Type II diabetes mellitus with hypoglycaemic coma	2
+95159	Did not attend DESMOND diabetes structured education program	2
+32627	Type 2 diabetes mellitus with ketoacidosis	2
+18278	Insulin treated Type 2 diabetes mellitus	2
+18390	Type 2 diabetes mellitus with persistent microalbuminuria	2
+100964	Type II diabetes mellitus with ophthalmic complications	2
+49074	Type 2 diabetes mellitus with ulcer	2
+46150	Type 2 diabetes mellitus with gangrene	2
+60796	Type II diabetes mellitus with persistent proteinuria	2
+93727	Type II diabetes mellitus with diabetic cataract	2
+52303	Non-insulin-dependent diabetes mellitus with renal comps	2
+49655	Type II diabetes mellitus with retinopathy	2
+18219	Type II diabetes mellitus	2
+108005	Type 2 diabetes mellitus with multiple complications	2
+65267	Type 2 diabetes mellitus with multiple complications	2
+18496	Type 2 diabetes mellitus with retinopathy	2
+109103	Type II diabetes mellitus without complication	2
+42762	Type 2 diabetes mellitus with retinopathy	2
+109865	Type 2 diabetes mellitus with polyneuropathy	2
+14803	Diabetes mellitus, adult onset, no mention of complication	2
+18143	Type II diabetes mellitus with arthropathy	2
+37648	Insulin treated non-insulin dependent diabetes mellitus	2
+111798	Type II diabetes mellitus with exudative maculopathy	2
+26054	Type 2 diabetes mellitus with persistent proteinuria	2
+43139	Diabetes mellitus, adult onset, with hyperosmolar coma	2
+35385	Type 2 diabetes mellitus with neuropathic arthropathy	2
+18209	Type 2 diabetes mellitus with renal complications	2
+17859	Type 2 diabetes mellitus	2
+54856	Diabetes mellitus, adult onset, with ketoacidosis	2
+104639	Type II diabetes mellitus with peripheral angiopathy	2
+66965	Type 2 diabetes mellitus with neuropathic arthropathy	2
+506	Non-insulin dependent diabetes mellitus	2
+25041	Dietary advice for type II diabetes	2
+34268	Type 2 diabetes mellitus with neurological complications	2
+18264	Insulin treated Type II diabetes mellitus	2
+60699	Type 2 diabetes mellitus with peripheral angiopathy	2
+50813	Type II diabetes mellitus with mononeuropathy	2
+103902	Type II diabetes mellitus with arthropathy	2
+93657	Referral to DESMOND diabetes structured education programme	2
+24458	Type II diabetes mellitus - poor control	2
+62674	Type 2 diabetes mellitus with mononeuropathy	2
+34450	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	2
+47321	Type 2 diabetes mellitus with ophthalmic complications	2
+55842	Non-insulin-dependent diabetes mellitus with neuro comps	2
+34912	Non-insulin dependent diabetes mellitus with ulcer	2
+59365	Non-insulin dependent diabetes mellitus with nephropathy	2
+72320	Non-insulin dependent diabetes mellitus with mononeuropathy	2
+24836	Type 2 diabetes mellitus with nephropathy	2
+40401	Non-insulin dependent diabetes mellitus with gangrene	2
+24693	Non-insulin dependent diabetes mellitus with arthropathy	2
+105784	Type 2 diabetes mellitus without complication	2
+5884	NIDDM - Non-insulin dependent diabetes mellitus	2
+12640	Type 2 diabetes mellitus with nephropathy	2
+44779	Type 2 diabetes mellitus with diabetic cataract	2
+56268	Type II diabetes mellitus with hypoglycaemic coma	2
+57278	Type II diabetes mellitus with renal complications	2
+47315	Type II diabetes mellitus - poor control	2
+61071	Type 2 diabetes mellitus with hypoglycaemic coma	2
+43227	Type II diabetes mellitus with multiple complications	2
+45919	Type 2 diabetes mellitus with neurological complications	2
+54899	Type II diabetes mellitus with peripheral angiopathy	2
+70316	Type 2 diabetes mellitus with ophthalmic complications	2
+45467	Non-insulin dependent diabetes mellitus with polyneuropathy	2
+36633	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	2
+47816	Type II diabetes mellitus with neuropathic arthropathy	2
+25627	Type 2 diabetes mellitus - poor control	2
+22884	Type II diabetes mellitus	2
+50609	Pre-existing diabetes mellitus, non-insulin-dependent	2
+62146	Non-insulin-dependent diabetes mellitus with multiple comps	2
+46917	Type 2 diabetes mellitus with hypoglycaemic coma	2
+95093	Did not complete DESMOND diabetes structured educat program	2
+64668	Insulin treated Type II diabetes mellitus	2
+113495	Type II diabetes mellitus with multiple complications	2
+83532	Diabetes type 2 review	2
+48192	Type II diabetes mellitus with diabetic cataract	2
+67905	Type II diabetes mellitus with neurological complications	2
+59725	Type II diabetes mellitus with ophthalmic complications	2
+63762	Diabetes mellitus, adult onset, + unspecified complication	2
+25591	Type 2 diabetes mellitus with exudative maculopathy	2
+45913	Type 2 diabetes mellitus - poor control	2
+758	Type 2 diabetes mellitus	2
+106528	Type II diabetes mellitus with ketoacidosis	2
+106061	Type II diabetes mellitus with ketoacidotic coma	2
+49869	Type 2 diabetes mellitus with arthropathy	2
+69278	Non-insulin depend diabetes mellitus with diabetic cataract	2
+98616	Type II diabetes mellitus with neurological complications	2
+44982	Type 2 diabetes mellitus with diabetic cataract	2
+63371	Diabetes mellitus, adult, + other specified manifestation	2
+109197	Type II diabetes mellitus with neuropathic arthropathy	2
+51756	Type 2 diabetes mellitus with ketoacidotic coma	2
+12736	Type 2 diabetes mellitus with gangrene	2
+107701	Hyperosmolar non-ketotic state in type II diabetes mellitus	2
+1407	Insulin treated Type 2 diabetes mellitus	2
+110611	Type 2 diabetes mellitus in remission	2
+63357	Diabetes mellitus, adult, + peripheral circulatory disorder	2
+55075	Type II diabetes mellitus with ulcer	2
+63690	Type 2 diabetes mellitus with gastroparesis	2
+93529	DESMOND diabetes structured education programme completed	2
+65704	Type 2 diabetes mellitus with ulcer	2
+18425	Type 2 diabetes mellitus with polyneuropathy	2
+50225	Type II diabetes mellitus with renal complications	2
+113609	Type II diabetes mellitus with gastroparesis	2
+85991	Type II diabetes mellitus with persistent microalbuminuria	2

@@ -1,0 +1,222 @@
+medcodeid,term
+1011861000006110,adverse reaction to antihypertensive drugs
+1011871000006115,adverse reaction to vasodilator antihypertensive drugs
+1011881000006117,adverse reaction to centrally acting antihypertensive drugs
+107545013,hypertensive heart disease
+108730018,malignant hypertensive renal disease
+110659019,malignant hypertensive heart AND renal disease
+11777411000006113,renal disease due to hypertension
+12115621000006113,Referral for antihypertensive therapy
+12487991000006113,hypertensive treatm.changed
+12488211000006112,hypertension treatm. started
+12488221000006116,hypertension treatm.stopped
+12496011,hypertensive retinopathy
+12726231000006115,adverse reaction to other antihypertensives
+12726241000006113,adverse reaction to antihypertensives nos
+131046010,malignant essential hypertension
+13688011000006110,Multiple drug intolerant hypertension
+1409014,benign hypertensive renal disease
+143003017,hypertensive heart AND renal disease
+14639941000006112,Cardiomegaly due to hypertension
+14666061000006112,Hypertension treatment declined
+14741831000006119,Hypertension due to congenital adrenal hyperplasia
+15048621000006117,Haemorrhagic cerebral infarction due to hypertension
+151161000006115,secondary malignant hypertension
+1529013,blind hypertensive eye
+153941000006118, seen in hypertension clinic
+158241000006117,secondary hypertension nos
+1706551000000114,hypertension 9 month review
+1780252014,hypertension treatment refused
+1780253016,hypertension six month review
+1780318013,moderate hypertension control
+1780319017,hypertension annual review
+1806071000006118,stage 1 hypertension
+1806081000006115,stage 2 hypertension
+1806141000006113,severe hypertension
+1823901000006112,hypertension confirmed
+183856001,Referral to hypertension clinic
+1846941000006119,stage 1 hypertension (nice - nat ins for hth clin excl 2011)
+1846961000006115,severe hypertension (nat inst for health clinical ex 2011)
+1846991000006111,stage 2 hypertension (nice - nat ins for hth clin excl 2011)
+1858771000006114,AURAS-AF - consider the patient to have hypertension
+1908711000006115,stage 1 hyperten (nice 2011) without evidnce end organ damge
+1908721000006111,stage 1 hyperten (nice 2011) with evidnce end organ damge
+19411000006110,other pre-exist hypertension in preg/childb/puerp + p/n comp
+19421000006119,other pre-exist hypertension in preg/childb/puerp-not deliv
+19431000006116,other pre-existing hypertension in preg/childb/puerp - deliv
+19441000006114,other pre-existing hypertension in preg/childb/puerp nos
+19451000006111,other pre-existing hypertension in preg/childb/puerp unspec
+1992471000006116,vte risk assessment - uncontrolled systolic hypertension
+2011000033113,antihypertensive drugs
+2115801000000110,hypertension self-management plan review
+2117971000000119,hypertension self-management plan agreed
+212961000006118,pre-eclampsia or eclampsia + pre-existing hypertension nos
+212971000006113, pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication
+212981000006111, pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication
+212991000006114, pre-eclampsia or eclampsia with pre-existing hypertension - delivered
+213001000006110, pre-eclampsia or eclampsia with pre-existing hypertension - not delivered
+213081000006118,pre-exist 2ndry hypertens comp preg childbth and puerperium
+213091000006115, pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium
+213101000006114, pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerp
+213111000006112,pre-exist hypertension compl preg childbirth and puerperium
+2159168015,patient on maximal tolerated antihypertensive therapy
+2193021000000110,severe hypertension
+2193031000000112,stage 1 hypertension
+2193971000000110,hypertension resistant to drug therapy
+24184005,[D]Raised blood pressure reading  
+2474335018,hypertension clinical management plan
+2478822013,secondary benign renovascular hypertension
+251674014,h/o: hypertension
+2517301000006110,antihypertensive
+2581861000006110, hypertensive heart disease with congestive heart failure
+264471012,good hypertension control
+264472017,poor hypertension control
+264473010,hypertension:follow-up default
+264485019,hypertension treatm. started
+264486018,hypertensive treatm.changed
+264487010,hypertension treatm.stopped
+2813981000006110, high-renin essential hypertension
+28311000033116,vasodilator antihypertensive drugs
+284062018, referral to hypertension clinic
+28411000033112,centrally acting antihypertensive drugs
+285265015, seen in hypertension clinic
+2951231000006117,renal hypertension
+299650019, malignant hypertensive heart disease
+299655012, hypertensive heart disease NOS
+299665018, hypertensive renal disease with renal failure
+299673010, hypertensive heart and renal disease with renal failure
+299675015, hypertensive heart and renal disease NOS
+299676019,secondary malignant renovascular hypertension
+299677011,secondary malignant hypertension nos
+299678018,secondary benign hypertension
+299680012,secondary benign hypertension nos
+299681011,hypertension secondary to endocrine disorders
+299682016,secondary hypertension nos
+299683014,secondary renovascular hypertension nos
+299684015,hypertension secondary to drug
+299686018,other specified hypertensive disease
+299687010,hypertensive disease nos
+300869017,[x]hypertensive diseases
+300870016,[x]other secondary hypertension
+300871017,[x]hypertension secondary to other renal disorders
+305764016,other pre-existing hypertension in preg/childbirth/puerp
+305818015,pre-eclampsia or eclampsia with pre-existing hypertension
+3117411000006118,high blood pressure
+3117421000006114,hypertensive vascular disease
+3117431000006112,hypertensive vascular degeneration
+3117451000006117,bp - high blood pressure
+3117471000006110,hbp - high blood pressure
+3117481000006113,ht - hypertension
+3117491000006111,high blood pressure disorder
+3117501000006115,bp+ - hypertension
+3117511000006117,htn - hypertension
+3119661000006114,hypertensive nephropathy
+3128041000006117,renal arterial hypertension
+3135013,benign essential hypertension
+324338010,other hypertensive agent poisoning
+324342013,hypertensive agent poisoning nos
+3244761000006113,hypertensive heart failure
+3250801000006112,low-renin essential hypertension
+3296351000006114,hypertensive renal failure
+331291010,adverse reaction to other antihypertensives
+331302012,adverse reaction to antihypertensives nos
+3437381000006110,parenchymal renal hypertension
+3468491000006113,idiopathic hypertension
+3470001000006117,sustained diastolic hypertension
+3489281000006119,hypertensive heart disease without congestive heart failure
+350601000000116,high cost hypertension drugs
+351341000000118,high cost hypertension drugs nos
+351361000000117,other specified high cost hypertension drugs,
+351481000006111,[x] adverse reaction to antihypertensives nos
+3552501000006119,hypertensive cardiopathy
+3552521000006112,hypertensive cardiovascular disease
+356121000006111,[x] adverse reaction to other antihypertensives
+3595861000006116,pre-eclampsia added to pre-existing hypertension
+3636694012,combined diastolic and systolic hypertension
+3636695013,diastolic hypertension and systolic hypertension
+3636696014,diastolic hypertension co-occurrent with systolic hypertension
+3642801000006112,malignant hypertension
+3693711000006119,benign secondary renovascular hypertension
+3710191000006113,secondary diastolic hypertension
+3784371000006115,accelerated essential hypertension
+3898601000006112,pre-existing hypertension in obstetric context
+3898611000006110,pre-existing hypertension complicating pregnancy
+3950631000006119,accelerated secondary hypertension
+395751018,essential hypertension nos
+395753015,hypertensive renal disease nos
+39871000006113,oth pre-exist hypert in preg/childb/puerp -del with p/n comp
+404471000006113,"[x]oth antihyperten drug caus advers eff in therap use, nec"
+405053013, hypertension monitored
+411919011, hypertension monitoring
+4199551000006110,antihypertensive poisoning
+4199561000006112,poisoning caused by antihypertensive agent
+422681000006111,"[x]poisoning by other antihypertensive drugs, nec"
+4356081000006115,hypertension due to renovascular disease
+443764015,on treatment for hypertension
+451424017,antihypertensive therapy
+4540441000006117,history of hypertension
+4634851000006119,treatment for hypertension started
+4634871000006112,hypertensive treatment changed
+4634891000006113,treatment for hypertension stopped
+47076011,renal hypertension
+4775791000006113,malignant secondary renovascular hypertension
+4775831000006118,hypertension secondary to endocrine disorder
+4775861000006110,hypertension caused by drug
+523801000006119,bp - hypertensive disease
+530161000000111,trial reduction of antihypertensive therapy
+530221000000112,trial withdrawal of antihypertensive therapy
+53452019,secondary hypertension
+535591000000118,trial withdrawal of antihypertensive therapy declined
+535651000000113,trial reduction of antihypertensive therapy declined
+5590581000006114,pulmonary hypertension with occult mitral stenosis
+64168014,hypertensive disease
+64172013,high blood pressure
+64282015,hypertensive renal disease
+6592161000006112,hypertension with albuminuria
+7080381000006116,Hypertension associated with transplantation
+7084301000006117,hypertensive left ventricular hypertrophy
+7103581000006114,systolic essential hypertension
+728671000006119, malignant hypertensive heart disease with congestive cardiac failure
+728681000006116, malignant hypertensive heart disease without congestive heart failure
+7374481000006113,hypertensive complication
+741661000006118, hypertensive heart disease NOS
+741681000006111, hypertensive heart disease NOS with CCF
+741691000006114, hypertensive heart disease NOS without CCF
+741701000006114, hypertensive heart and renal disease with (congestive) heart failure
+7487571000006119,hypertensive nephrosclerosis
+7609711000006110,hypertensive crisis
+7593681000006118,hypertension concurrent and due to end stage renal disease on dialysis
+7652601000006116,antihypertensive agent surveillance done
+789941000006117,hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+790031000006119,hypertension annual review
+790121000006116,hypertension nos
+80224019,diastolic hypertension
+8030421000006114,hypertensive heart AND chronic kidney disease stage 4
+8030431000006112,hypertensive heart AND chronic kidney disease stage 3
+8030441000006119,hypertensive heart AND chronic kidney disease stage 2
+8030451000006117,hypertensive heart AND chronic kidney disease stage 1
+8035251000006111,end stage renal disease due to hypertension
+8036941000006111,chronic kidney disease stage 1 due to hypertension
+8040331000006118,hypertension concurrent and due to end stage renal disease on dialysis due to type
+8040661000006119,Chronic kidney disease stage 4 due to hypertension
+8040671000006114,Chronic kidney disease stage 5 due to hypertension
+8040681000006112,Chronic kidney disease stage 3 due to hypertension
+8040691000006110,Chronic kidney disease stage 2 due to hypertension
+8041701000006119,Hypertensive emergency
+8044011000006117,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus
+8044041000006118,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus
+8044061000006119,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus
+8048001000006110,End stage renal disease on dialysis due to hypertension
+8087641000006112,Malignant hypertensive chronic kidney disease
+8286321000006117,resistant hypertension
+8286581000006114,stage 2 hypertension
+84111015,hypertensive encephalopathy
+84112010,hypertensive crisis
+884121000006111,malignant hypertension
+884131000006114, hypertensive renal + heart dis
+887811000006117,preg.+ pre-existing hypertensn
+909441000006118,[rfc] hypertension
+93494011,systolic hypertension
+940001000006110,hypertension medication review
+99042012,essential hypertension
+99047018,primary hypertension

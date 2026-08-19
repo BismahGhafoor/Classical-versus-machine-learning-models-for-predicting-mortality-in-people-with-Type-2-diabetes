@@ -1,0 +1,23 @@
+code	terminology	name
+127946011	medcodeid	Total_Cholesterol
+186091018	medcodeid	Total_Cholesterol
+259252011	medcodeid	Total_Cholesterol
+1484985012	medcodeid	Total_Cholesterol
+1488851015	medcodeid	Total_Cholesterol
+2478443019	medcodeid	Total_Cholesterol
+34521000033114	medcodeid	Total_Cholesterol
+4110981000006119	medcodeid	Total_Cholesterol
+6052931000006111	medcodeid	Total_Cholesterol
+6279001000006116	medcodeid	Total_Cholesterol
+6279011000006118	medcodeid	Total_Cholesterol
+6279031000006112	medcodeid	Total_Cholesterol
+6279041000006119	medcodeid	Total_Cholesterol
+6831591000006111	medcodeid	Total_Cholesterol
+6831601000006115	medcodeid	Total_Cholesterol
+8241111000006113	medcodeid	Total_Cholesterol
+8290381000006115	medcodeid	Total_Cholesterol
+8292941000006114	medcodeid	Total_Cholesterol
+405621000000116	medcodeid	Total_Cholesterol
+3877651000006116	medcodeid	Total_Cholesterol
+12620771000006117	medcodeid	Total_Cholesterol
+

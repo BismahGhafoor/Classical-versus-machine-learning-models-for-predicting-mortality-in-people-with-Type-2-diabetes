@@ -56,3 +56,11 @@ __pycache__/
 .DS_Store
 .vscode/
 .idea/
+
+# ============================================================
+# APPROVED STUDY CODELISTS
+# Data file extensions remain blocked everywhere else.
+# ============================================================
+!00_codelists/**/*.txt
+!00_codelists/**/*.csv
+!00_codelists/**/*.xlsx
