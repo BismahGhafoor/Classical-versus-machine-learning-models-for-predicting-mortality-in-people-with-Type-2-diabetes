@@ -36,7 +36,7 @@ log = logging.getLogger(__name__)
 CODELIST_PATH = "/scratch/alice/b/bg205/Medication_Extraction/final_outputs/master_codelists/Final_codelists/AURUM_all_medication_lookup_stage3.csv"
 
 # Combined cohort file (will filter to AURUM only)
-COHORT_PATH = "/scratch/alice/b/bg205/16_02_26/Combined_GOLD_Aurum_recoded.txt"
+COHORT_PATH = "/scratch/alice/b/bg205/16_02_26/CLEANED_DATA/Combined_GOLD_Aurum_recoded.txt"
 COHORT_SEP = "\t"
 
 # Filtered Aurum DrugIssue files

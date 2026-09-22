@@ -62,7 +62,7 @@ RUN_AURUM = True
 RUN_HES   = True
 
 # --- Cohort ---
-COHORT_FILE           = "/scratch/alice/b/bg205/16_02_26/Combined_GOLD_Aurum_recoded.txt"
+COHORT_FILE = "/scratch/alice/b/bg205/16_02_26/CLEANED_DATA/Combined_GOLD_Aurum_recoded.txt"
 COHORT_SEP            = "\t"
 COHORT_COL_PATID      = "patid"
 COHORT_COL_INDEX_DATE = "indexdate"
